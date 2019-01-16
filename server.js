@@ -19,6 +19,8 @@ var totalTiles = tilesX * tilesY;
 var tileWidth = imgWidth / tilesX;
 var tileHeight = imgHeight / tilesY;
 
+var watsonResp = { table: [] };
+
 httpServer.listen(3000, () => {
     console.log(`Server is listening on port ${PORT}`);
 });
@@ -89,10 +91,24 @@ const handleError = (err, res) => {
     if (err) {
     console.log(err);
     } else {
-    console.log(JSON.stringify(response, null, 2))
+      watsonResp.table.push(response);
     }
     });
-}
+  }
+
+  var addToFile = function(){
+    var fs = require('fs');
+    fs.writeFile('watsonData.json', (JSON.stringify(watsonResp)), 'utf8', function(err) {
+      if (err) throw err;
+      console.log('complete');
+    });
+  }
+
+  app.post('/addtoFile', function(req, res) {
+    console.log(req.body);
+    res.send(204);
+    addToFile();
+  });
 
   app.post('/wats', function(req, res) {
     console.log(req.body);
@@ -105,7 +121,7 @@ const handleError = (err, res) => {
     res.send(204);
     splitImg();
   });
-  
+
   app.post("/upload",
     upload.single("file"),
     (req, res) => {

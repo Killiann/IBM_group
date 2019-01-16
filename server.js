@@ -3,11 +3,21 @@ const path = require("path");
 const fs = require("fs");
 const express = require("express");
 const multer = require("multer");
-var Jimp = require('jimp')
+var Jimp = require('jimp');
 
 const app = express();
 const httpServer = http.createServer(app);
 const PORT = process.env.PORT || 3000;
+
+var imgWidth = 3000;
+var imgHeight = 3000;
+
+var tilesX = 3;
+var tilesY = 3;
+var totalTiles = tilesX * tilesY;
+
+var tileWidth = imgWidth / tilesX;
+var tileHeight = imgHeight / tilesY;
 
 httpServer.listen(3000, () => {
     console.log(`Server is listening on port ${PORT}`);
@@ -29,11 +39,8 @@ const handleError = (err, res) => {
 
   var splitImg = function(){
     // splitting image
-    var tileWidth = 1000;
-    var tileHeight = 1000;
-
-    for(let x=0;x<=2;x++){ 
-      for(let y=0;y<=2;y++){  
+    for(let x=0;x<tilesX;x++){ 
+      for(let y=0;y<tilesY;y++){  
         Jimp.read(path.join(__dirname, "./public/uploads/image.png"))
           .then(lenna => {
             return lenna
@@ -48,12 +55,57 @@ const handleError = (err, res) => {
       }
     }
   }
+
+  var watsonRun = function(){
+    // run through watson
+    for(let x=0;x<tilesX;x++){ 
+      for(let y=0;y<tilesY;y++){  
+        classify(path.join(__dirname, "./split/")+ x.toString() + y.toString() + '.jpg')
+      }
+    }
+  }
+
+  // linking to watson function, handles all API calls
+  var classify = function(fileName){
+    var VisualRecognitionV3 = require('watson-developer-cloud/visual-recognition/v3');
+    var fs = require('fs');
+
+    var visualRecognition = new VisualRecognitionV3({
+    version: '2018-03-19',
+    iam_apikey: 'mf50QOufCEr9otMl3WKiXdYMu2Rti3KTMKxOFoaDYqYV'
+    });
+
+    var images_file= fs.createReadStream(fileName); //<- this is where we add the image from the webpage
+    var classifier_ids = ["Buildings_87615665"]; //Add the custom model id you get from the implementation once its trained
+    var threshold = 0.00; //could change the threshold here to avoid false positives perhaps
+
+    var params = {
+    images_file: images_file,
+    classifier_ids: classifier_ids,
+    threshold: threshold
+    };
+
+    visualRecognition.classify(params, function(err, response){
+    if (err) {
+    console.log(err);
+    } else {
+    console.log(JSON.stringify(response, null, 2))
+    }
+    });
+}
+
+  app.post('/wats', function(req, res) {
+    console.log(req.body);
+    res.send(204);
+    watsonRun();
+  });
+
   app.post('/scan', function(req, res) {
     console.log(req.body);
     res.send(204);
-  
     splitImg();
   });
+  
   app.post("/upload",
     upload.single("file"),
     (req, res) => {

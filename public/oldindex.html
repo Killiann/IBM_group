@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="public/stylesheet.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    
+        <!-- roboto import -->
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+    </head>
+    <body>
+        <br>
+        <div class="containPage">
+            <div class="content">
+                <div class="controls">
+                    <h1>Habitation Scanner</h1>
+                    <form method="post" enctype="multipart/form-data" action="/upload">
+                        <input type="file" id="upload_btn" name="file" accept="image/png, image/jpeg, image/jpg">
+                        <input type="submit" value="Submit">
+                    </form>
+                    <br/>
+                    <br/>
+                    <form method="post" action="/scan">
+                        <input type="submit" value="Split Image" class="niceInput">
+                    </form>
+                    <form method="post" action="/wats">
+                        <input type="submit" value="Send Images Through Watson" class="niceInput">
+                    </form>
+                    <form method="post" action="/addtoFile">
+                        <input type="submit" value="Add data To File" class="niceInput">
+                    </form>
+                    <form method="post" action="/extract">
+                        <input type="submit" value="Extract Data From File" class="niceInput">
+                    </form>
+                    <form method="post" action="/overlay">
+                        <input type="submit" value="Overlay Image" class="niceInput">
+                    </form>
+                    <br>
+                </div>
+                <div class="showImage">
+                    <canvas id="canvas" style="width:90%; margin:5%"></canvas>
+                    <script src="public/scanScript.js"></script>
+                </div>
+            </div>
+        </div>
+        
+        <!-- scripts -->
+    </body>
+</html>

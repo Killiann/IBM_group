@@ -1,53 +1,58 @@
 <!doctype html>
 <html>
     <head>
+        <link rel="stylesheet" href="public/stylesheet.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    
+        <!-- roboto import -->
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
     </head>
     <body>
-        <br>
-        <div class="container">
-            <div class="jumbotron">
-                <h1>Habitation Scanner</h1>
-                <form method="post" enctype="multipart/form-data" action="/upload">
-                    <input type="file" id="upload_btn" name="file" accept="image/png, image/jpeg, image/jpg">
-                    <br>
-                    <br>
-                    <input type="submit" value="Submit">
-                </form>
+        <div class="navbar">
+            <img src="public/res/avatar_purple.png"/>
+            <h1>IBM Watson Satellite Plotter</h1>
+        </div>
+        <div class="content">
+            <div class="controls">
                 <form method="post" action="/scan">
-                    <input type="submit" value="Scan">
+                    <input type="submit" value="Split Image" class="niceInput">
                 </form>
                 <form method="post" action="/wats">
-                    <input type="submit" value="Watson">
+                    <input type="submit" value="Send Images Through Watson" class="niceInput">
                 </form>
                 <form method="post" action="/addtoFile">
-                    <input type="submit" value="add data to file">
+                    <input type="submit" value="Add data To File" class="niceInput">
                 </form>
                 <form method="post" action="/extract">
-                    <input type="submit" value="extract data from file">
-                </form>
-                <br>
-                <form method="post" action="/runAll">
-                    <input type="submit" value="Run All Functions">
-                </form>
-                <br>
-                <form method="post" action="/changePage">
-                    <input type="submit" value="Switch page">
+                    <input type="submit" value="Extract Data From File" class="niceInput">
                 </form>
                 <form method="post" action="/overlay">
-                    <input type="submit" value="overlay Image">
+                    <input type="submit" value="Overlay Image" class="niceInput">
                 </form>
-                <br>
-
-                <!-- <img id="satImg" src="public/uploads/image.png" style="width:100%;"/> -->
-                <canvas id="canvas" style="width:100%;"></canvas>
-                <script src="public/scanScript.js"></script>
+            </div>
+            <div class="imageHold">
+                <table>
+                    <tr>
+                        <td>
+                            <form method="post" enctype="multipart/form-data" action="/upload">
+                                <input type="file" id="upload_btn" name="file" accept="image/png, image/jpeg, image/jpg">
+                                <input type="submit" value="Submit">
+                            </form>
+                            <br/>
+                            <canvas id="canvas" class="satellite_canvas"></canvas>
+                            <script src="public/scanScript.js"></script>
+                        </td>
+                        <td>
+                            <div class="extra_data">
+                                
+                            </div>
+                        </td>
+                    </tr>                        
+                </table>
             </div>
         </div>
-        
-        <!-- scripts -->
     </body>
 </html>

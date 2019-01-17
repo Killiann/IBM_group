@@ -261,7 +261,7 @@ function overLayImage(){
   imageObj.src = 'public/uploads/image.png';
 
   const fs = require('fs')
-  const out = fs.createWriteStream(__dirname + '/test.png')
+  const out = fs.createWriteStream(__dirname + '/final.png')
   const stream = canv.createPNGStream()
   stream.pipe(out)
   out.on('finish', () =>  console.log('The PNG file was created.'))

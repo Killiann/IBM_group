@@ -26,24 +26,23 @@
                 <form method="post" action="/addtoFile">
                     <input type="submit" value="add data to file">
                 </form>
+                <form method="post" action="/extract">
+                    <input type="submit" value="extract data from file">
+                </form>
                 <br>
-                <button class="btn-success btn-lg" onclick="scan_image()">Scan</button>
+                <form method="post" action="/runAll">
+                    <input type="submit" value="Run All Functions">
+                </form>
                 <br>
+                <form method="post" action="/changePage">
+                    <input type="submit" value="Switch page">
+                </form>
                 <br>
+
                 <img id="satImg" src="public/uploads/image.png" style="width:100%;"/>
             </div>
         </div>
         <canvas id="myCanvas" style="display:none"></canvas>
-        <canvas id="can_1"></canvas>
-        <canvas id="can_2"></canvas>
-        <canvas id="can_3"></canvas>
-        <canvas id="can_4"></canvas>
-        <canvas id="can_5"></canvas>
-        <canvas id="can_6"></canvas>
-        <canvas id="can_7"></canvas>
-        <canvas id="can_8"></canvas>
-        <canvas id="can_9"></canvas>
-        <canvas id="can_10"></canvas>
         <!-- scripts -->
         <script src="public/scanScript.js"></script>
     </body>

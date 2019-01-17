@@ -1,1 +1,156 @@
-{"table":[{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.92}]}],"image":"11.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.92}]}],"image":"10.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.915}]}],"image":"12.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.918}]}],"image":"20.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.92}]}],"image":"01.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.92}]}],"image":"00.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.914}]}],"image":"02.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.896}]}],"image":"22.jpg"}],"images_processed":1,"custom_classes":1},{"images":[{"classifiers":[{"classifier_id":"Buildings_87615665","name":"Buildings","classes":[{"class":"Positive","score":0.918}]}],"image":"21.jpg"}],"images_processed":1,"custom_classes":1}]}
+{
+    "table": [{
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.906
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.002
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "22.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.906
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.82
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.624
+                }, {
+                    "class": "Roads",
+                    "score": 0.017
+                }]
+            }],
+            "image": "00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.802
+                }, {
+                    "class": "Roads",
+                    "score": 0.007
+                }]
+            }],
+            "image": "02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.906
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "21.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.816
+                }, {
+                    "class": "Roads",
+                    "score": 0.003
+                }]
+            }],
+            "image": "12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "DefaultCustomModel_668964923",
+                "name": "Default Custom Model",
+                "classes": [{
+                    "class": "Habitations",
+                    "score": 0.902
+                }, {
+                    "class": "Roads",
+                    "score": 0
+                }]
+            }],
+            "image": "20.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 2
+    }]
+}

@@ -4,6 +4,7 @@ const fs = require("fs");
 const express = require("express");
 const multer = require("multer");
 var Jimp = require('jimp');
+var async = require('async');
 
 const app = express();
 const httpServer = http.createServer(app);
@@ -20,6 +21,7 @@ var tileWidth = imgWidth / tilesX;
 var tileHeight = imgHeight / tilesY;
 
 var watsonResp = { table: [] };
+var imageDataArray = [];
 
 httpServer.listen(3000, () => {
     console.log(`Server is listening on port ${PORT}`);
@@ -39,6 +41,39 @@ const handleError = (err, res) => {
     dest: "./public/uploads"
   });
 
+  var runTasks = function(){
+    const tasks = [
+      splitImg(),
+      watsonRun(addToFile(extractJSON)),
+      addToFile(),
+      extractJSON()
+    ]
+    async.waterfall(tasks, (err, res) => {
+      if(err)
+        return next(err);
+    });
+  }
+
+  //extracts and sorts the JSON values
+  function extractJSON(){
+    var fs = require('fs');
+    var obj = JSON.parse(fs.readFileSync('watsonData.json', 'utf8'));
+    for(let i=0;i<totalTiles;i++){ 
+      let tb = obj.table[i];
+      let coord = tb.images[0]["image"].split('.')[0];
+      let val = tb.images[0].classifiers[0].classes[0]["score"];
+      imageDataArray.push([coord, val]);
+    }
+    imageDataArray.sort(sortFunction);
+    console.log(imageDataArray);
+  }
+  function sortFunction(a, b) {
+    if (a[0] === b[0])
+        return 0;
+    else
+        return (a[0] < b[0]) ? -1 : 1;
+  }
+
   var splitImg = function(){
     // splitting image
     for(let x=0;x<tilesX;x++){ 
@@ -46,7 +81,6 @@ const handleError = (err, res) => {
         Jimp.read(path.join(__dirname, "./public/uploads/image.png"))
           .then(lenna => {
             return lenna
-              .clone()
               .crop(x*tileWidth, y*tileHeight, tileWidth-1, tileHeight-1)
               .write(path.join(__dirname, "./split/")+ x.toString() + y.toString() + '.jpg'); // save
           })
@@ -58,13 +92,14 @@ const handleError = (err, res) => {
     }
   }
 
-  var watsonRun = function(){
+  function watsonRun(){
     // run through watson
     for(let x=0;x<tilesX;x++){ 
       for(let y=0;y<tilesY;y++){  
         classify(path.join(__dirname, "./split/")+ x.toString() + y.toString() + '.jpg')
       }
     }
+    // callback();
   }
 
   // linking to watson function, handles all API calls
@@ -92,6 +127,7 @@ const handleError = (err, res) => {
     console.log(err);
     } else {
       watsonResp.table.push(response);
+      console.log(response);
     }
     });
   }
@@ -102,25 +138,42 @@ const handleError = (err, res) => {
       if (err) throw err;
       console.log('complete');
     });
+    // callback();
   }
 
+  function changeAddress(){
+    app.use('/public/complete', express.static(__dirname + "/public/complete"));
+  }
+
+  app.post('/changePage', function(req,res){
+    res.send(204);
+    changeAddress();
+  });
+
+  app.post('/extract', function(req, res) {
+    res.send(204);
+    extractJSON();
+  });
+
   app.post('/addtoFile', function(req, res) {
-    console.log(req.body);
     res.send(204);
     addToFile();
   });
 
   app.post('/wats', function(req, res) {
-    console.log(req.body);
     res.send(204);
     watsonRun();
   });
 
   app.post('/scan', function(req, res) {
-    console.log(req.body);
     res.send(204);
     splitImg();
   });
+
+  app.post('/runAll', function(req, res) {
+    res.send(204);
+    runTasks();
+  })
 
   app.post("/upload",
     upload.single("file"),

@@ -132,7 +132,7 @@ const handleError = (err, res) => {
     });
   }
 
-  var addToFile = function(){
+  function addToFile(){
     var fs = require('fs');
     fs.writeFile('watsonData.json', (JSON.stringify(watsonResp)), 'utf8', function(err) {
       if (err) throw err;

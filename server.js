@@ -5,6 +5,9 @@ const express = require("express");
 const multer = require("multer");
 var Jimp = require('jimp');
 var async = require('async');
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+
 
 const app = express();
 const httpServer = http.createServer(app);
@@ -13,8 +16,8 @@ const PORT = process.env.PORT || 3000;
 var imgWidth = 3000;
 var imgHeight = 3000;
 
-var tilesX = 3;
-var tilesY = 3;
+var tilesX = 15;
+var tilesY = 15;
 var totalTiles = tilesX * tilesY;
 
 var tileWidth = imgWidth / tilesX;
@@ -82,7 +85,7 @@ const handleError = (err, res) => {
           .then(lenna => {
             return lenna
               .crop(x*tileWidth, y*tileHeight, tileWidth-1, tileHeight-1)
-              .write(path.join(__dirname, "./split/")+ x.toString() + y.toString() + '.jpg'); // save
+              .write(path.join(__dirname, "./split/")+ x.toString() +"-"+ y.toString() + '.jpg'); // save
           })
           .catch(err => {
             console.error(err);
@@ -96,7 +99,7 @@ const handleError = (err, res) => {
     // run through watson
     for(let x=0;x<tilesX;x++){ 
       for(let y=0;y<tilesY;y++){  
-        classify(path.join(__dirname, "./split/")+ x.toString() + y.toString() + '.jpg')
+        classify(path.join(__dirname, "./split/")+ x.toString() + "-" + y.toString() + '.jpg')
       }
     }
     // callback();
@@ -202,3 +205,25 @@ const handleError = (err, res) => {
     }
   );
     
+
+// var CanvasGrid = require('canvas-grid');
+ 
+// var cvs = document.getElementById('canvas');
+// var grid = new CanvasGrid(cvs, {
+//   borderColor: '#777'
+// });
+ 
+// var activeColor = '#ff0beb';
+ 
+// grid.drawMatrix({
+//   x: 16,
+//   y: 4
+// });
+ 
+// cvs.addEventListener('click', function(ev) {
+//   if (ev.gridInfo.color.hex !== activeColor) {
+//     grid.fillCell(ev.gridInfo.x, ev.gridInfo.y, activeColor);
+//   } else {
+//     grid.clearCell(ev.gridInfo.x, ev.gridInfo.y);
+//   }
+// });

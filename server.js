@@ -6,7 +6,7 @@ const multer = require("multer");
 var Jimp = require('jimp');
 var async = require('async');
 const jsdom = require("jsdom");
-const { createCanvas, loadImage } = require('canvas')
+const Canvas = require('canvas')
 const { JSDOM } = jsdom;
 
 
@@ -128,11 +128,11 @@ const handleError = (err, res) => {
 
     var visualRecognition = new VisualRecognitionV3({
     version: '2018-03-19',
-    iam_apikey: 'mf50QOufCEr9otMl3WKiXdYMu2Rti3KTMKxOFoaDYqYV'
+    iam_apikey: 'M5wRyXsWOCWJ6kWihpEtzfXgnxMGmppEU7fA0fKLoNfj'
     });
 
     var images_file= fs.createReadStream(fileName); //<- this is where we add the image from the webpage
-    var classifier_ids = ["Buildings_87615665"]; //Add the custom model id you get from the implementation once its trained
+    var classifier_ids = ["DefaultCustomModel_668964923"]; //Add the custom model id you get from the implementation once its trained
     var threshold = 0.00; //could change the threshold here to avoid false positives perhaps
 
     var params = {
@@ -228,34 +228,41 @@ const handleError = (err, res) => {
     
 
 function overLayImage(){
-  const canvas = createCanvas(imgWidth,imgHeight);
-  const ctx = canvas.getContext('2d')
-  // for loop to draw cubes
-  
+  const canv = Canvas.createCanvas(imgWidth,imgHeight)
+  const ctx = canv.getContext('2d')
+
   // draw image first
+  var imageObj = new Canvas.Image();
 
-  const myimg = loadImage(path.join(__dirname, "./public/uploads/image.png"))
- 
-  myimg.then(() => {
-    ctx.drawImage(image, 0, 0, 3000, 3000)
-  }).catch(err => {
-  console.log('image hasn not loaded', err)
-  })
+  imageObj.onload = function() {
+      ctx.drawImage(imageObj, 0, 0, 3000,3000,
+          0, 0, 3000, 3000);
+      for(let x=0;x<tilesX;x++){
+        for(let y=0;y<tilesY;y++){
+          
+          let arrayIndex = (x*tilesX)+y;
+          var watsonVal;
+          if(arrayIndex < (totalTiles-1)){
+            watsonVal = imageDataArray[arrayIndex][2];
+          } 
 
-  for(let i=0;i<imageDataArray.length;i++){
-
-  }
-  // for(let x=0;x<5;x++){
-  //   for(let y=0;y<5;y++){
-  //     ctx.rect(x*tileWidth, y*ctx.tileHeight, tileWidth, tileHeight)
-  //     ctx.fillStyle = "rgba(255, 255, 255, 0.5";
-  //     ctx.fillRect();
-  //   }
-  // }
+          ctx.globalAlpha = 0.5;
+          ctx.beginPath();
+          ctx.rect(x*tileWidth, y*tileHeight, tileWidth, tileHeight)
+          if(watsonVal < 0.4)ctx.fillStyle = "#FF1600";
+          else if(watsonVal < 0.6)ctx.fillStyle = "#E85F00";
+          else if(watsonVal < 0.8)ctx.fillStyle = "#FFAF00";
+          else if(watsonVal < 0.9)ctx.fillStyle = "#E8DD00";
+          else if(watsonVal < 1)ctx.fillStyle = "#5CFF00";
+          ctx.fill();
+        }
+      }
+  };
+  imageObj.src = 'public/uploads/image.png';
 
   const fs = require('fs')
   const out = fs.createWriteStream(__dirname + '/test.png')
-  const stream = canvas.createPNGStream()
+  const stream = canv.createPNGStream()
   stream.pipe(out)
   out.on('finish', () =>  console.log('The PNG file was created.'))
 }

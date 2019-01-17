@@ -6,6 +6,7 @@ const multer = require("multer");
 var Jimp = require('jimp');
 var async = require('async');
 const jsdom = require("jsdom");
+const { createCanvas, loadImage } = require('canvas')
 const { JSDOM } = jsdom;
 
 
@@ -61,14 +62,29 @@ const handleError = (err, res) => {
   function extractJSON(){
     var fs = require('fs');
     var obj = JSON.parse(fs.readFileSync('watsonData.json', 'utf8'));
-    for(let i=0;i<totalTiles;i++){ 
+    for(let i=0;i<totalTiles-1;i++){ 
       let tb = obj.table[i];
+      console.log(i);
       let coord = tb.images[0]["image"].split('.')[0];
+      console.log(tb.images[0]["image"].split('.')[0]);
       let val = tb.images[0].classifiers[0].classes[0]["score"];
-      imageDataArray.push([coord, val]);
+      imageDataArray.push([coord,val]);
     }
     imageDataArray.sort(sortFunction);
+    var tempArray = imageDataArray;
+    imageDataArray = [];
+    for(let i=0;i<totalTiles-1;i++){ 
+      let coord = tempArray[i][0];
+      let coordX = coord.split('-')[0];
+      let coordY = coord.split('-')[1];
+      imageDataArray.push([parseInt(coordX),parseInt(coordY),tempArray[i][1]]);
+    }
     console.log(imageDataArray);
+  }
+  Number.prototype.pad = function(size) {
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+    return s;
   }
   function sortFunction(a, b) {
     if (a[0] === b[0])
@@ -85,7 +101,7 @@ const handleError = (err, res) => {
           .then(lenna => {
             return lenna
               .crop(x*tileWidth, y*tileHeight, tileWidth-1, tileHeight-1)
-              .write(path.join(__dirname, "./split/")+ x.toString() +"-"+ y.toString() + '.jpg'); // save
+              .write(path.join(__dirname, "./split/")+ x.pad(2).toString() +"-"+ y.pad(2).toString() + '.jpg'); // save
           })
           .catch(err => {
             console.error(err);
@@ -99,7 +115,7 @@ const handleError = (err, res) => {
     // run through watson
     for(let x=0;x<tilesX;x++){ 
       for(let y=0;y<tilesY;y++){  
-        classify(path.join(__dirname, "./split/")+ x.toString() + "-" + y.toString() + '.jpg')
+        classify(path.join(__dirname, "./split/")+ x.pad(2).toString() + "-" + y.pad(2).toString() + '.jpg')
       }
     }
     // callback();
@@ -151,6 +167,11 @@ const handleError = (err, res) => {
   app.post('/changePage', function(req,res){
     res.send(204);
     changeAddress();
+  });
+
+  app.post('/overlay', function(req,res){
+    res.send(204);
+    overLayImage();
   });
 
   app.post('/extract', function(req, res) {
@@ -206,24 +227,35 @@ const handleError = (err, res) => {
   );
     
 
-// var CanvasGrid = require('canvas-grid');
+function overLayImage(){
+  const canvas = createCanvas(imgWidth,imgHeight);
+  const ctx = canvas.getContext('2d')
+  // for loop to draw cubes
+  
+  // draw image first
+
+  const myimg = loadImage(path.join(__dirname, "./public/uploads/image.png"))
  
-// var cvs = document.getElementById('canvas');
-// var grid = new CanvasGrid(cvs, {
-//   borderColor: '#777'
-// });
- 
-// var activeColor = '#ff0beb';
- 
-// grid.drawMatrix({
-//   x: 16,
-//   y: 4
-// });
- 
-// cvs.addEventListener('click', function(ev) {
-//   if (ev.gridInfo.color.hex !== activeColor) {
-//     grid.fillCell(ev.gridInfo.x, ev.gridInfo.y, activeColor);
-//   } else {
-//     grid.clearCell(ev.gridInfo.x, ev.gridInfo.y);
-//   }
-// });
+  myimg.then(() => {
+    ctx.drawImage(image, 0, 0, 3000, 3000)
+  }).catch(err => {
+  console.log('image hasn not loaded', err)
+  })
+
+  for(let i=0;i<imageDataArray.length;i++){
+
+  }
+  // for(let x=0;x<5;x++){
+  //   for(let y=0;y<5;y++){
+  //     ctx.rect(x*tileWidth, y*ctx.tileHeight, tileWidth, tileHeight)
+  //     ctx.fillStyle = "rgba(255, 255, 255, 0.5";
+  //     ctx.fillRect();
+  //   }
+  // }
+
+  const fs = require('fs')
+  const out = fs.createWriteStream(__dirname + '/test.png')
+  const stream = canvas.createPNGStream()
+  stream.pipe(out)
+  out.on('finish', () =>  console.log('The PNG file was created.'))
+}

@@ -6,10 +6,346 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.92
+                    "score": 0.106
                 }]
             }],
-            "image": "3-13.jpg"
+            "image": "05-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.224
+                }]
+            }],
+            "image": "06-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.279
+                }]
+            }],
+            "image": "06-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.086
+                }]
+            }],
+            "image": "07-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.001
+                }]
+            }],
+            "image": "06-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.103
+                }]
+            }],
+            "image": "04-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.035
+                }]
+            }],
+            "image": "07-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.324
+                }]
+            }],
+            "image": "07-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.134
+                }]
+            }],
+            "image": "03-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.85
+                }]
+            }],
+            "image": "05-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.26
+                }]
+            }],
+            "image": "06-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.253
+                }]
+            }],
+            "image": "01-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.835
+                }]
+            }],
+            "image": "08-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.072
+                }]
+            }],
+            "image": "02-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.564
+                }]
+            }],
+            "image": "00-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.096
+                }]
+            }],
+            "image": "11-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.578
+                }]
+            }],
+            "image": "07-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.061
+                }]
+            }],
+            "image": "11-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.456
+                }]
+            }],
+            "image": "02-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.373
+                }]
+            }],
+            "image": "06-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.011
+                }]
+            }],
+            "image": "04-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.046
+                }]
+            }],
+            "image": "03-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.312
+                }]
+            }],
+            "image": "05-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.692
+                }]
+            }],
+            "image": "04-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.604
+                }]
+            }],
+            "image": "12-03.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -23,7 +359,35 @@
                     "score": 0.92
                 }]
             }],
-            "image": "3-5.jpg"
+            "image": "03-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.279
+                }]
+            }],
+            "image": "03-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.764
+                }]
+            }],
+            "image": "04-04.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -37,7 +401,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "1-8.jpg"
+            "image": "03-01.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -48,66 +412,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.92
+                    "score": 0.003
                 }]
             }],
-            "image": "6-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.583
-                }]
-            }],
-            "image": "3-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "1-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.07
-                }]
-            }],
-            "image": "9-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.88
-                }]
-            }],
-            "image": "5-11.jpg"
+            "image": "04-11.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -121,7 +429,7 @@
                     "score": 0.773
                 }]
             }],
-            "image": "14-13.jpg"
+            "image": "02-08.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -132,665 +440,7 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.227
-                }]
-            }],
-            "image": "12-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "3-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "13-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "2-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.915
-                }]
-            }],
-            "image": "4-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.917
-                }]
-            }],
-            "image": "4-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.877
-                }]
-            }],
-            "image": "12-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.624
-                }]
-            }],
-            "image": "8-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.885
-                }]
-            }],
-            "image": "9-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "6-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "3-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "7-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.876
-                }]
-            }],
-            "image": "0-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.861
-                }]
-            }],
-            "image": "8-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "0-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.916
-                }]
-            }],
-            "image": "2-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "0-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.783
-                }]
-            }],
-            "image": "10-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.917
-                }]
-            }],
-            "image": "11-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "2-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "4-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "8-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.732
-                }]
-            }],
-            "image": "4-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "1-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "13-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.212
-                }]
-            }],
-            "image": "12-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "3-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "12-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.441
-                }]
-            }],
-            "image": "14-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "2-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "3-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.195
-                }]
-            }],
-            "image": "14-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "4-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.903
-                }]
-            }],
-            "image": "0-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "0-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.915
-                }]
-            }],
-            "image": "9-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.879
-                }]
-            }],
-            "image": "7-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "4-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.912
-                }]
-            }],
-            "image": "13-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "6-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.902
-                }]
-            }],
-            "image": "8-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.508
-                }]
-            }],
-            "image": "13-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.901
-                }]
-            }],
-            "image": "11-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.901
-                }]
-            }],
-            "image": "1-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "2-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.566
-                }]
-            }],
-            "image": "10-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.745
+                    "score": 0.102
                 }]
             }],
             "image": "11-11.jpg"
@@ -804,24 +454,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.906
+                    "score": 0.458
                 }]
             }],
-            "image": "11-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.695
-                }]
-            }],
-            "image": "5-1.jpg"
+            "image": "00-09.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -835,7 +471,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "5-5.jpg"
+            "image": "00-02.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -849,7 +485,7 @@
                     "score": 0.918
                 }]
             }],
-            "image": "7-3.jpg"
+            "image": "05-01.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -863,7 +499,21 @@
                     "score": 0.92
                 }]
             }],
-            "image": "2-5.jpg"
+            "image": "03-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.779
+                }]
+            }],
+            "image": "00-11.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -877,7 +527,35 @@
                     "score": 0.92
                 }]
             }],
-            "image": "12-13.jpg"
+            "image": "00-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.247
+                }]
+            }],
+            "image": "01-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.426
+                }]
+            }],
+            "image": "03-09.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -891,7 +569,77 @@
                     "score": 0.92
                 }]
             }],
-            "image": "0-1.jpg"
+            "image": "00-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.007
+                }]
+            }],
+            "image": "11-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.917
+                }]
+            }],
+            "image": "02-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.055
+                }]
+            }],
+            "image": "04-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.24
+                }]
+            }],
+            "image": "11-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.844
+                }]
+            }],
+            "image": "00-06.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -905,105 +653,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "2-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.909
-                }]
-            }],
-            "image": "3-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.882
-                }]
-            }],
-            "image": "3-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.823
-                }]
-            }],
-            "image": "14-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.154
-                }]
-            }],
-            "image": "8-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.577
-                }]
-            }],
-            "image": "13-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.91
-                }]
-            }],
-            "image": "7-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.32
-                }]
-            }],
-            "image": "14-5.jpg"
+            "image": "04-01.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1017,49 +667,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "11-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.208
-                }]
-            }],
-            "image": "7-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.859
-                }]
-            }],
-            "image": "9-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.084
-                }]
-            }],
-            "image": "13-10.jpg"
+            "image": "00-01.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1073,77 +681,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "9-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.806
-                }]
-            }],
-            "image": "14-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.916
-                }]
-            }],
-            "image": "0-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.277
-                }]
-            }],
-            "image": "12-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.916
-                }]
-            }],
-            "image": "3-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.889
-                }]
-            }],
-            "image": "14-4.jpg"
+            "image": "01-01.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1157,7 +695,7 @@
                     "score": 0.915
                 }]
             }],
-            "image": "10-14.jpg"
+            "image": "00-07.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1168,10 +706,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.893
+                    "score": 0.198
                 }]
             }],
-            "image": "8-9.jpg"
+            "image": "02-13.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1182,10 +720,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.122
+                    "score": 0.197
                 }]
             }],
-            "image": "10-2.jpg"
+            "image": "00-08.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1199,6 +737,1462 @@
                     "score": 0.92
                 }]
             }],
+            "image": "02-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.527
+                }]
+            }],
+            "image": "04-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.166
+                }]
+            }],
+            "image": "04-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "04-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.207
+                }]
+            }],
+            "image": "01-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "12-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.06
+                }]
+            }],
+            "image": "02-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.917
+                }]
+            }],
+            "image": "05-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "03-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.159
+                }]
+            }],
+            "image": "06-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.036
+                }]
+            }],
+            "image": "01-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.358
+                }]
+            }],
+            "image": "10-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.07
+                }]
+            }],
+            "image": "02-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.506
+                }]
+            }],
+            "image": "07-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.229
+                }]
+            }],
+            "image": "00-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.014
+                }]
+            }],
+            "image": "02-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.17
+                }]
+            }],
+            "image": "01-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.734
+                }]
+            }],
+            "image": "09-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.004
+                }]
+            }],
+            "image": "08-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.183
+                }]
+            }],
+            "image": "12-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.391
+                }]
+            }],
+            "image": "05-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.018
+                }]
+            }],
+            "image": "08-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.009
+                }]
+            }],
+            "image": "06-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.612
+                }]
+            }],
+            "image": "00-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.162
+                }]
+            }],
+            "image": "10-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.453
+                }]
+            }],
+            "image": "07-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.539
+                }]
+            }],
+            "image": "01-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.406
+                }]
+            }],
+            "image": "07-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.01
+                }]
+            }],
+            "image": "07-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.034
+                }]
+            }],
+            "image": "10-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.026
+                }]
+            }],
+            "image": "07-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.263
+                }]
+            }],
+            "image": "04-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.788
+                }]
+            }],
+            "image": "07-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.05
+                }]
+            }],
+            "image": "05-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.006
+                }]
+            }],
+            "image": "08-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.731
+                }]
+            }],
+            "image": "07-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.864
+                }]
+            }],
+            "image": "07-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.719
+                }]
+            }],
+            "image": "05-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.418
+                }]
+            }],
+            "image": "05-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.411
+                }]
+            }],
+            "image": "06-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.261
+                }]
+            }],
+            "image": "03-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.865
+                }]
+            }],
+            "image": "06-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.017
+                }]
+            }],
+            "image": "08-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.379
+                }]
+            }],
+            "image": "04-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.038
+                }]
+            }],
+            "image": "08-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.006
+                }]
+            }],
+            "image": "09-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.553
+                }]
+            }],
+            "image": "02-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.601
+                }]
+            }],
+            "image": "03-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.559
+                }]
+            }],
+            "image": "00-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.624
+                }]
+            }],
+            "image": "08-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.475
+                }]
+            }],
+            "image": "01-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.467
+                }]
+            }],
+            "image": "05-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.683
+                }]
+            }],
+            "image": "05-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.274
+                }]
+            }],
+            "image": "09-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "02-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.066
+                }]
+            }],
+            "image": "06-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.009
+                }]
+            }],
+            "image": "09-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.844
+                }]
+            }],
+            "image": "08-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.169
+                }]
+            }],
+            "image": "08-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.152
+                }]
+            }],
+            "image": "04-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.919
+                }]
+            }],
+            "image": "06-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.005
+                }]
+            }],
+            "image": "08-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.153
+                }]
+            }],
+            "image": "02-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.814
+                }]
+            }],
+            "image": "08-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.173
+                }]
+            }],
+            "image": "09-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.015
+                }]
+            }],
+            "image": "08-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.919
+                }]
+            }],
+            "image": "01-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.046
+                }]
+            }],
+            "image": "07-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.529
+                }]
+            }],
+            "image": "09-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.353
+                }]
+            }],
+            "image": "03-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.178
+                }]
+            }],
+            "image": "07-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.018
+                }]
+            }],
+            "image": "08-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.919
+                }]
+            }],
+            "image": "04-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.183
+                }]
+            }],
+            "image": "09-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.068
+                }]
+            }],
+            "image": "09-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.169
+                }]
+            }],
+            "image": "06-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.085
+                }]
+            }],
+            "image": "08-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.878
+                }]
+            }],
+            "image": "00-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.863
+                }]
+            }],
+            "image": "06-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.047
+                }]
+            }],
+            "image": "14-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "13-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.663
+                }]
+            }],
+            "image": "07-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "02-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.162
+                }]
+            }],
+            "image": "13-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.346
+                }]
+            }],
+            "image": "12-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.594
+                }]
+            }],
+            "image": "01-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.902
+                }]
+            }],
+            "image": "09-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.658
+                }]
+            }],
+            "image": "13-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.054
+                }]
+            }],
+            "image": "13-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.087
+                }]
+            }],
+            "image": "10-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.895
+                }]
+            }],
+            "image": "01-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.581
+                }]
+            }],
+            "image": "12-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.903
+                }]
+            }],
+            "image": "08-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.7
+                }]
+            }],
+            "image": "10-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.515
+                }]
+            }],
+            "image": "11-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.917
+                }]
+            }],
+            "image": "12-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.735
+                }]
+            }],
+            "image": "05-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.079
+                }]
+            }],
+            "image": "13-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.101
+                }]
+            }],
+            "image": "14-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.489
+                }]
+            }],
+            "image": "14-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.864
+                }]
+            }],
+            "image": "09-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.915
+                }]
+            }],
+            "image": "03-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.916
+                }]
+            }],
+            "image": "14-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.77
+                }]
+            }],
+            "image": "13-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.111
+                }]
+            }],
             "image": "13-14.jpg"
         }],
         "images_processed": 1,
@@ -1210,10 +2204,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.769
+                    "score": 0.133
                 }]
             }],
-            "image": "13-12.jpg"
+            "image": "14-11.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1224,7 +2218,119 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.893
+                    "score": 0.305
+                }]
+            }],
+            "image": "12-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.12
+                }]
+            }],
+            "image": "12-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.702
+                }]
+            }],
+            "image": "06-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.806
+                }]
+            }],
+            "image": "03-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.095
+                }]
+            }],
+            "image": "12-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.881
+                }]
+            }],
+            "image": "14-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.562
+                }]
+            }],
+            "image": "10-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.007
+                }]
+            }],
+            "image": "09-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.599
                 }]
             }],
             "image": "11-12.jpg"
@@ -1238,10 +2344,584 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.894
+                    "score": 0.918
                 }]
             }],
-            "image": "8-14.jpg"
+            "image": "12-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.015
+                }]
+            }],
+            "image": "10-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.418
+                }]
+            }],
+            "image": "13-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.06
+                }]
+            }],
+            "image": "12-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.917
+                }]
+            }],
+            "image": "13-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.107
+                }]
+            }],
+            "image": "11-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.356
+                }]
+            }],
+            "image": "00-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.292
+                }]
+            }],
+            "image": "10-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.061
+                }]
+            }],
+            "image": "05-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.057
+                }]
+            }],
+            "image": "13-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "14-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.056
+                }]
+            }],
+            "image": "14-12.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.092
+                }]
+            }],
+            "image": "13-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.01
+                }]
+            }],
+            "image": "10-08.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.468
+                }]
+            }],
+            "image": "11-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.919
+                }]
+            }],
+            "image": "14-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.776
+                }]
+            }],
+            "image": "11-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.097
+                }]
+            }],
+            "image": "05-11.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.754
+                }]
+            }],
+            "image": "10-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "14-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "01-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.915
+                }]
+            }],
+            "image": "04-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.8
+                }]
+            }],
+            "image": "14-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.781
+                }]
+            }],
+            "image": "02-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.148
+                }]
+            }],
+            "image": "12-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.544
+                }]
+            }],
+            "image": "09-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.847
+                }]
+            }],
+            "image": "06-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.002
+                }]
+            }],
+            "image": "09-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.111
+                }]
+            }],
+            "image": "12-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.303
+                }]
+            }],
+            "image": "02-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.328
+                }]
+            }],
+            "image": "10-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.001
+                }]
+            }],
+            "image": "10-10.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "13-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.814
+                }]
+            }],
+            "image": "13-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.58
+                }]
+            }],
+            "image": "13-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.058
+                }]
+            }],
+            "image": "03-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.88
+                }]
+            }],
+            "image": "11-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "11-01.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.039
+                }]
+            }],
+            "image": "05-07.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.505
+                }]
+            }],
+            "image": "01-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.457
+                }]
+            }],
+            "image": "11-05.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.252
+                }]
+            }],
+            "image": "12-04.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1255,7 +2935,7 @@
                     "score": 0.906
                 }]
             }],
-            "image": "6-5.jpg"
+            "image": "09-03.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1266,10 +2946,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.83
+                    "score": 0.672
                 }]
             }],
-            "image": "2-11.jpg"
+            "image": "10-03.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1280,10 +2960,10 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.759
+                    "score": 0.02
                 }]
             }],
-            "image": "7-6.jpg"
+            "image": "03-11.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1294,7 +2974,105 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.842
+                    "score": 0.629
+                }]
+            }],
+            "image": "14-13.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.828
+                }]
+            }],
+            "image": "01-06.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.919
+                }]
+            }],
+            "image": "10-00.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "14-04.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "01-02.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.92
+                }]
+            }],
+            "image": "13-03.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.433
+                }]
+            }],
+            "image": "14-09.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.001
                 }]
             }],
             "image": "11-10.jpg"
@@ -1311,7 +3089,7 @@
                     "score": 0.92
                 }]
             }],
-            "image": "1-4.jpg"
+            "image": "11-00.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1
@@ -1322,735 +3100,7 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "5-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.885
-                }]
-            }],
-            "image": "8-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.216
-                }]
-            }],
-            "image": "12-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.899
-                }]
-            }],
-            "image": "9-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.712
-                }]
-            }],
-            "image": "9-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "12-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.825
-                }]
-            }],
-            "image": "13-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.857
-                }]
-            }],
-            "image": "10-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.403
-                }]
-            }],
-            "image": "10-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.142
-                }]
-            }],
-            "image": "9-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.867
-                }]
-            }],
-            "image": "14-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.613
-                }]
-            }],
-            "image": "11-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "6-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.815
-                }]
-            }],
-            "image": "12-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.659
-                }]
-            }],
-            "image": "0-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.914
-                }]
-            }],
-            "image": "1-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "6-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "1-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.883
-                }]
-            }],
-            "image": "9-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "8-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.912
-                }]
-            }],
-            "image": "6-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "5-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.904
-                }]
-            }],
-            "image": "4-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.081
-                }]
-            }],
-            "image": "13-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "7-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "14-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.474
-                }]
-            }],
-            "image": "6-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "6-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "7-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.912
-                }]
-            }],
-            "image": "0-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.013
-                }]
-            }],
-            "image": "7-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.026
-                }]
-            }],
-            "image": "14-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.262
-                }]
-            }],
-            "image": "13-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.681
-                }]
-            }],
-            "image": "13-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.881
-                }]
-            }],
-            "image": "6-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.898
-                }]
-            }],
-            "image": "8-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "5-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.079
-                }]
-            }],
-            "image": "8-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.332
-                }]
-            }],
-            "image": "11-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.752
-                }]
-            }],
-            "image": "9-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.305
-                }]
-            }],
-            "image": "1-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.859
-                }]
-            }],
-            "image": "3-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.895
-                }]
-            }],
-            "image": "14-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.614
-                }]
-            }],
-            "image": "11-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.914
-                }]
-            }],
-            "image": "9-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.84
-                }]
-            }],
-            "image": "9-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "10-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.84
-                }]
-            }],
-            "image": "14-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.907
+                    "score": 0.353
                 }]
             }],
             "image": "14-14.jpg"
@@ -2064,1088 +3114,24 @@
                 "name": "Buildings",
                 "classes": [{
                     "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "8-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "3-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.714
-                }]
-            }],
-            "image": "7-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.912
-                }]
-            }],
-            "image": "10-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.528
-                }]
-            }],
-            "image": "2-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "9-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.482
-                }]
-            }],
-            "image": "14-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "10-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.764
-                }]
-            }],
-            "image": "9-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.86
-                }]
-            }],
-            "image": "6-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.441
-                }]
-            }],
-            "image": "8-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.908
-                }]
-            }],
-            "image": "0-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "11-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.235
-                }]
-            }],
-            "image": "8-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "3-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "1-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-3.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.054
-                }]
-            }],
-            "image": "9-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.893
-                }]
-            }],
-            "image": "13-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "11-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.821
-                }]
-            }],
-            "image": "5-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "2-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "2-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.888
-                }]
-            }],
-            "image": "7-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "1-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.899
-                }]
-            }],
-            "image": "6-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "2-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.29
-                }]
-            }],
-            "image": "11-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "5-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.708
-                }]
-            }],
-            "image": "10-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.917
-                }]
-            }],
-            "image": "7-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "10-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "11-14.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "1-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.915
-                }]
-            }],
-            "image": "0-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "7-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.828
-                }]
-            }],
-            "image": "10-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "2-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "7-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.913
-                }]
-            }],
-            "image": "1-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.906
-                }]
-            }],
-            "image": "5-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "0-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.857
-                }]
-            }],
-            "image": "13-13.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "10-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.917
-                }]
-            }],
-            "image": "2-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.91
-                }]
-            }],
-            "image": "10-4.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "3-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "0-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.904
-                }]
-            }],
-            "image": "13-1.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "0-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.44
-                }]
-            }],
-            "image": "12-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "5-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.686
-                }]
-            }],
-            "image": "8-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "4-9.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.366
-                }]
-            }],
-            "image": "7-5.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.811
-                }]
-            }],
-            "image": "1-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "12-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.883
-                }]
-            }],
-            "image": "1-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "1-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.389
-                }]
-            }],
-            "image": "12-10.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "4-6.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.919
-                }]
-            }],
-            "image": "3-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.14
-                }]
-            }],
-            "image": "10-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
-                }]
-            }],
-            "image": "6-2.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.914
-                }]
-            }],
-            "image": "6-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "11-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.914
-                }]
-            }],
-            "image": "0-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.918
-                }]
-            }],
-            "image": "6-12.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.915
-                }]
-            }],
-            "image": "2-7.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.899
-                }]
-            }],
-            "image": "12-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.802
-                }]
-            }],
-            "image": "4-11.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.891
-                }]
-            }],
-            "image": "12-8.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.625
-                }]
-            }],
-            "image": "14-0.jpg"
-        }],
-        "images_processed": 1,
-        "custom_classes": 1
-    }, {
-        "images": [{
-            "classifiers": [{
-                "classifier_id": "Buildings_87615665",
-                "name": "Buildings",
-                "classes": [{
-                    "class": "Positive",
-                    "score": 0.92
+                    "score": 0.602
                 }]
             }],
             "image": "12-14.jpg"
+        }],
+        "images_processed": 1,
+        "custom_classes": 1
+    }, {
+        "images": [{
+            "classifiers": [{
+                "classifier_id": "Buildings_87615665",
+                "name": "Buildings",
+                "classes": [{
+                    "class": "Positive",
+                    "score": 0.104
+                }]
+            }],
+            "image": "09-08.jpg"
         }],
         "images_processed": 1,
         "custom_classes": 1

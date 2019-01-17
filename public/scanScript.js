@@ -11,6 +11,6 @@ $(function() {
         ctx.drawImage(imageObj, 69, 50, imageObj.width,imageObj.height,
             0, 0, canvas.width, canvas.height);
     };
-    imageObj.src = 'public/uploads/image.jpg';
+    imageObj.src = 'public/uploads/image.png';
 
 });
